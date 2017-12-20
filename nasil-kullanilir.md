@@ -22,3 +22,5 @@ Bandicam programını sitemizden indirdikten sonra kurulumu da size anlattığı
 Bu ekranda görebileceğiniz üzere her şey tamamen Türkçe. Yani isterseniz kendiniz kurcalayarak her özelliğini çözebilirsiniz. Ancak kısaca özetlemek gerekirse: Oyun Kaydı butonu var en altta. Ona basarsanız oyuna girip direk kayda başlayabilirsiniz. Sonra o kaydettiğiniz videoyu montaj programlarıyla güzelce düzenleyip, video paylaşım sitelerine yollayabilirsiniz.
 
 Tam ekran butonuna tıklarsanız o anda ekranınızda ne varsa Bandicam onu kaydedecektir. Dikdörtgen alan butonuyla ise sadece ekranınızın seçtiğiniz bir bölümünü kaydedebilirsiniz. Cihaz kaydı butonuyla Face Cam aktif edebilir ve hem oyun videosu hem de facecam ile yayıncılık yapabilirsiniz. Fare çevresinde butonuna tıklarsanız Bandicam sadece farenizi götürdüğünüz yeri kaydedecektir.
+
+Bandicam ile çekeceğiniz videolar diğer bütün rakip programlara göre çok daha düşük boyutlu olacaktır. Çünkü kendine has özel bir sıkıştırma algoritması bulunmaktadır. Çoğu yayıncı da bu yüzden bu programı kullanmaktadır.
