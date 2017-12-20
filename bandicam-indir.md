@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Retrica APK İndir - Yüzlerce Bedava Filtre!
-permalink: /retrica-apk-indir
+title: Bandicam Son Sürüm İndir (Ücretsiz)
+permalink: /bandicam-indir
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
