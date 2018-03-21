@@ -58,7 +58,7 @@ Boyut: 35,8 MB<br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<h3>Shadow Fight 3: Oyun İçi Videomuz<h3/>
+<h3>Shadow Fight 3: Oyun İçi Videomuz</h3>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/58goooQpgNk?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
-Büyük ilgi gören ve mobil oyun sektörünün en iyi dövüş oyunu denilen Shadow Fight’ın 3. sürümü sonunda çıktı.Şimdi size yeni sürümde gelen özelliklerden bahsedelim.Shadow Fight 3’de yine seçtiğimiz gölge savaşçı karakteriyle karşımıza gelen birbirinden güçlü ve farklı özelliklere sahip düşmanları yenmemiz gerekiyor.Bunu yaparken oyundaki değişik silah sopa gibi itemleri kullanabilirsiniz.Ayrıca sadece yumruk ve tekme ile de dövüşebilirsiniz.Daha önceki sürümlere göre daha çok silah ve item seçeneği bulunmakta.Bu da oyunu daha eğlenceli hale getirmekte.İyi eğlenceler.
+<span style="color:blue">Büyük ilgi gören ve mobil oyun sektörünün en iyi dövüş oyunu denilen Shadow Fight’ın 3. sürümü sonunda çıktı.Şimdi size yeni sürümde gelen özelliklerden bahsedelim.Shadow Fight 3’de yine seçtiğimiz gölge savaşçı karakteriyle karşımıza gelen birbirinden güçlü ve farklı özelliklere sahip düşmanları yenmemiz gerekiyor.Bunu yaparken oyundaki değişik silah sopa gibi itemleri kullanabilirsiniz.Ayrıca sadece yumruk ve tekme ile de dövüşebilirsiniz.Daha önceki sürümlere göre daha çok silah ve item seçeneği bulunmakta.Bu da oyunu daha eğlenceli hale getirmekte.İyi eğlenceler.</span>
