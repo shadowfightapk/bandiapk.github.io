@@ -27,7 +27,9 @@ Boyut: 35,8 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a rel="nofollow" href="http://apkins.aptoide.com/shadow-fight-3.apk?uid=35341227&store=sandro797&ver=8.5.0.1&entry_point=apkfy_new&utm_source=google&utm_medium=organic&utm_campaign=%28organic%29&utm_content=unknown&t_site_version=2&t_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F64.0.3282.186+Safari%2F537.36&t_app_url=https%3A%2F%2Fshadowfight3.tr.aptoide.com%2F&t_app_package=com.nekki.shadowfight3" target="_blank">İndir</a>
+<a rel="nofollow" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight3" target="_blank">Google Play'den İndir</a>
+<a rel="nofollow" href="http://apkins.aptoide.com/shadow-fight-3.apk?uid=35341227&store=sandro797&ver=8.5.0.1&entry_point=apkfy_new&utm_source=google&utm_medium=organic&utm_campaign=%28organic%29&utm_content=unknown&t_site_version=2&t_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F64.0.3282.186+Safari%2F537.36&t_app_url=https%3A%2F%2Fshadowfight3.tr.aptoide.com%2F&t_app_package=com.nekki.shadowfight3" target="_blank">Modlu İndir</a>
+     
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Esneking -->
 <ins class="adsbygoogle"
